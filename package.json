@@ -1,0 +1,26 @@
+{
+  "name": "ddp-plus",
+  "version": "0.0.1",
+  "description": "Extended Node DDP Client",
+  "main": "lib/ddp-plus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-ich/node-ddp-plus.git"
+  },
+  "keywords": [
+    "meteor",
+    "ddp"
+  ],
+  "author": "ICHIKAWA, Yuji<ichikawa.yuji@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/y-ich/node-ddp-plus/issues"
+  },
+  "homepage": "https://github.com/y-ich/node-ddp-plus#readme",
+  "dependencies": {
+    "ddp": "^0.12.1"
+  }
+}
